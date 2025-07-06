@@ -1,0 +1,10 @@
+{
+    "language": "EN",
+    "gestures": {
+        "move_cursor": "V_GEST",
+        "left_click": "MID",
+        "right_click": "INDEX",
+        "scroll": "PINCH_MINOR",
+        "volume": "PINCH_MAJOR"
+    }
+}
